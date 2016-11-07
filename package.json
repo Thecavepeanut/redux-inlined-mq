@@ -1,0 +1,21 @@
+{
+  "name": "redux-inlined-mq",
+  "version": "0.0.0",
+  "description": "A redux module to trigger on different media sizes and implement components that react to page size. This essientally allows for the css media query concept with inlined styles!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Redux",
+    "Inlined",
+    "Styles",
+    "Media",
+    "Quries"
+  ],
+  "author": "Jake Grajewski",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.16.6"
+  }
+}
